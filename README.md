@@ -14,6 +14,17 @@ Always eager to learn, I find joy in exploring new technologies and improving my
 
 
 # Tech Stack [![Scyther](https://img.pokemondb.net/sprites/black-white/anim/shiny/scyther.gif)](https://pokemondb.net/pokedex/scyther) 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="20" /> R
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" /> Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20" /> DockerDB
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain.svg" width="20" /> Godot
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20" /> MySQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="20" /> UnrealEngine
+
+
+
+
+          
 
 
 # Socials: [![Kabutops](https://img.pokemondb.net/sprites/black-white/anim/normal/kabutops.gif)](https://pokemondb.net/pokedex/kabutops)
