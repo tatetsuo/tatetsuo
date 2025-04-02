@@ -31,7 +31,6 @@ Always eager to learn, I find joy in exploring new technologies and improving my
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nightgab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabmaiafernandes/)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tatetsuo_)
 
 # Stats: [![Darkrai](https://img.pokemondb.net/sprites/black-white/anim/normal/darkrai.gif)](https://pokemondb.net/pokedex/darkrai) 
 
